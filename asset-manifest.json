@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/boxtimer/static/css/main.d1b05096.chunk.css",
-    "main.js": "/boxtimer/static/js/main.a4111a5a.chunk.js",
-    "main.js.map": "/boxtimer/static/js/main.a4111a5a.chunk.js.map",
+    "main.js": "/boxtimer/static/js/main.51400ae4.chunk.js",
+    "main.js.map": "/boxtimer/static/js/main.51400ae4.chunk.js.map",
     "runtime-main.js": "/boxtimer/static/js/runtime-main.820f1589.js",
     "runtime-main.js.map": "/boxtimer/static/js/runtime-main.820f1589.js.map",
-    "static/js/2.1a411a05.chunk.js": "/boxtimer/static/js/2.1a411a05.chunk.js",
-    "static/js/2.1a411a05.chunk.js.map": "/boxtimer/static/js/2.1a411a05.chunk.js.map",
+    "static/js/2.c657cf39.chunk.js": "/boxtimer/static/js/2.c657cf39.chunk.js",
+    "static/js/2.c657cf39.chunk.js.map": "/boxtimer/static/js/2.c657cf39.chunk.js.map",
     "index.html": "/boxtimer/index.html",
-    "precache-manifest.3ae8f4fedc2ce38d65b96c098ee0bf60.js": "/boxtimer/precache-manifest.3ae8f4fedc2ce38d65b96c098ee0bf60.js",
+    "precache-manifest.7684a342e8c097c4dccecf553f18c351.js": "/boxtimer/precache-manifest.7684a342e8c097c4dccecf553f18c351.js",
     "service-worker.js": "/boxtimer/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/boxtimer/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.1a411a05.chunk.js.LICENSE": "/boxtimer/static/js/2.1a411a05.chunk.js.LICENSE",
-    "static/media/logo.svg": "/boxtimer/static/media/logo.5d5d9eef.svg"
+    "static/js/2.c657cf39.chunk.js.LICENSE": "/boxtimer/static/js/2.c657cf39.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.820f1589.js",
-    "static/js/2.1a411a05.chunk.js",
+    "static/js/2.c657cf39.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a4111a5a.chunk.js"
+    "static/js/main.51400ae4.chunk.js"
   ]
 }
