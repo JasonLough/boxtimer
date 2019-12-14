@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "107aac1641095831c35f1ebeeac4c4f6",
+    "revision": "6ee7d07fdcb95373c703103dd9cc6c5e",
     "url": "/boxtimer/index.html"
   },
   {
-    "revision": "170da69105f4ea333ae4",
+    "revision": "85eb852fb9d34ac79dc6",
     "url": "/boxtimer/static/css/main.f5fbccd7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boxtimer/static/js/2.c657cf39.chunk.js.LICENSE"
   },
   {
-    "revision": "170da69105f4ea333ae4",
-    "url": "/boxtimer/static/js/main.7ee04a3b.chunk.js"
+    "revision": "85eb852fb9d34ac79dc6",
+    "url": "/boxtimer/static/js/main.292e598e.chunk.js"
   },
   {
     "revision": "0eef67cb93951965ab8e",

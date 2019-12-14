@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/boxtimer/static/css/main.f5fbccd7.chunk.css",
-    "main.js": "/boxtimer/static/js/main.7ee04a3b.chunk.js",
-    "main.js.map": "/boxtimer/static/js/main.7ee04a3b.chunk.js.map",
+    "main.js": "/boxtimer/static/js/main.292e598e.chunk.js",
+    "main.js.map": "/boxtimer/static/js/main.292e598e.chunk.js.map",
     "runtime-main.js": "/boxtimer/static/js/runtime-main.820f1589.js",
     "runtime-main.js.map": "/boxtimer/static/js/runtime-main.820f1589.js.map",
     "static/js/2.c657cf39.chunk.js": "/boxtimer/static/js/2.c657cf39.chunk.js",
     "static/js/2.c657cf39.chunk.js.map": "/boxtimer/static/js/2.c657cf39.chunk.js.map",
     "index.html": "/boxtimer/index.html",
-    "precache-manifest.68eda12a997c196964ff82ed2d66adf6.js": "/boxtimer/precache-manifest.68eda12a997c196964ff82ed2d66adf6.js",
+    "precache-manifest.32ad31a7527c949d26fd9849fc82d36f.js": "/boxtimer/precache-manifest.32ad31a7527c949d26fd9849fc82d36f.js",
     "service-worker.js": "/boxtimer/service-worker.js",
     "static/css/main.f5fbccd7.chunk.css.map": "/boxtimer/static/css/main.f5fbccd7.chunk.css.map",
     "static/js/2.c657cf39.chunk.js.LICENSE": "/boxtimer/static/js/2.c657cf39.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.820f1589.js",
     "static/js/2.c657cf39.chunk.js",
     "static/css/main.f5fbccd7.chunk.css",
-    "static/js/main.7ee04a3b.chunk.js"
+    "static/js/main.292e598e.chunk.js"
   ]
 }
